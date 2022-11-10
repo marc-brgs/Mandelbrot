@@ -1,1 +1,1 @@
-# TP-Fractale
+# Mandelbrot
